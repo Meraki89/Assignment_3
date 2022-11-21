@@ -1,0 +1,128 @@
+Antikörper (Immunglobuline, im internationalen Sprachgebrauch auch Immunoglobulin, veraltet Gammaglobulin) sind Proteine (Eiweiße) aus der Klasse der Globuline, die in Wirbeltieren als Reaktionsprodukt von besonderen Körperzellen (Plasmazellen) auf bestimmte Stoffe (als Antigene bezeichnete Substanzen) gebildet (synthetisiert) werden.
+Antikörper stehen im Dienste des Immunsystems.
+Antikörper werden von einer Klasse weißer Blutzellen, den Plasmazellen, auf eine Reaktion der B-Lymphozyten hin, produziert.Als Antigene wirken fast ausschließlich Makromoleküle oder an Partikel gebundene Moleküle, zum Beispiel Lipopolysaccharide an der Oberfläche von Bakterien.
+Ein bestimmtes Antigen induziert in der Regel die Bildung nur weniger, ganz bestimmter, dazu passender Antikörper, die über spezifische, nicht-kovalente Bindung zumeist nur diesen Fremdstoff erkennen (dass auch verwandte Ziele erkannt werden können, hat man sich z.
+B. bei der Pockenschutzimpfung zunutze gemacht: Die vom Körper gegen die harmlosen Kuhpocken gebildeten Antikörper erkennen auch für Menschen pathogene Pockenviren).
+Die spezifische Bindung von Antikörpern an die Antigene bildet einen wesentlichen Teil der Abwehr gegen die eingedrungenen Fremdstoffe.
+Bei Krankheitserregern (Pathogenen) als Fremdstoffen kann die Bildung und Bindung von Antikörpern zur Immunität führen.
+Antikörper sind zentrale Bestandteile des Immunsystems höherer Wirbeltiere.Antikörper werden, wie 1948 von der schwedischen Immunologin Astrid Fagraeus erstmals beschrieben wurde, von einer Klasse weißer Blutzellen (Leukozyten) sezerniert, die als Effektorzellen beziehungsweise Plasmazellen bezeichnet werden und differenzierte B-Lymphozyten darstellen.
+Sie kommen im Blut und in der extrazellulären Flüssigkeit der Gewebe vor und „erkennen“ meist nicht die gesamte Struktur des Antigens, sondern nur einen Teil desselben, die sogenannte antigene Determinante (das Epitop).
+Die spezifische Antigenbindungsstelle des Antikörpers bezeichnet man als Paratop.
+Die Antikörper erzeugen beim Kontakt mit dem Antigen die sogenannte humorale Immunantwort (humorale Abwehr).Da einige Aminosäurereste Zuckerketten tragen, zählen Antikörper zu den Glykoproteinen.
+Jeder Antikörper besteht aus zwei identischen schweren Ketten (engl.
+heavy chains, H) und zwei identischen leichten Ketten (engl.
+light chains, L), die durch kovalente Disulfidbrücken zwischen den Ketten (sogenannte Zwischenketten-Disulfide) zu einer Ypsilon-förmigen Struktur miteinander verknüpft sind.
+Die leichten Ketten (auch: Leichtketten) bestehen aus jeweils einer variablen und einer konstanten Domäne.
+Bezeichnet werden diese als VL und CL.
+Die schweren Ketten (auch: Schwerketten) hingegen haben jeweils eine variable und drei (IgG, IgA) bzw. vier (IgM, IgE) konstante Domänen.
+Bezeichnet werden diese analog als VH und CH1, CH2, CH3.Die variablen Domänen einer leichten und einer schweren Kette zusammen bilden die Antigenbindungsstelle.
+Die Konstantdomäne CH2 besteht u. a. auch aus einer Kohlenhydratkette, die eine Bindungsstelle für das Komplementsystem bildet.
+Die Konstantdomäne CH3 ist die Fc-Rezeptor-Bindungsstelle zur Opsonierung.
+Die variablen Domänen bilden ihrerseits verschiedene charakteristische Paratope aus, die zusammen einen Idiotyp bilden.Die beiden Leichtketten sind je nach Organismus und Immunglobulin-Subklasse entweder vom Typ κ oder λ und bilden zusammen mit dem oberhalb der Gelenkregion (engl.
+hinge region, auch: Scharnierregion) liegenden Anteil der Schwerketten das antigenbindende Fragment Fab (engl.
+antigen-binding fragment), welches enzymatisch mit Hilfe von Papain von dem darunterliegenden kristallisierbaren Fragment Fc (engl.
+Die außergewöhnliche Variabilität der Antigenbindungsstellen (engl.
+Complementarity Determining Region, CDR) erreicht der Organismus vermittels der V(D)J-Rekombination.Papain spaltet oberhalb der Zwischenketten-Disulfidbrücken der beiden Schwerketten zueinander.
+Man erhält so zwei Fab-Fragmente und ein vollständiges Fragment Fc.
+Pepsin hingegen spaltet unterhalb der Disulfidbrücken.
+Die Gelenkregion bleibt zwischen beiden Fab-Fragmenten erhalten.
+Man nennt dieses Fragment dann F(ab)2.
+Pepsin und Plasmin spalten auch das Fc-Fragment zwischen der zweiten und dritten Domäne des konstanten Teils der Schwerkette.Antikörper binden mit ihrer A(ntigen)B(indungs)-Region (Paratop) das Epitop des Antigens relativ spezifisch, analog dem Schlüssel-Schloss-Prinzip.
+Es passiert jedoch nicht selten, dass, metaphorisch dargestellt, ein zweiter oder dritter Schlüssel existiert, der in das Antikörper-„Schloss“ passt, aufgrund der (zufällig) ähnlichen oder identischen Konfiguration des Epitops.
+Mit sehr geringer Wahrscheinlichkeit kann das auch eine körpereigene Struktur sein.
+Auf diesem Phänomen beruhen manche Autoimmunerkrankungen.Die Bindung zwischen Epitop und Immunglobulin ist nicht-kovalent und unterliegt dem Massenwirkungsgesetz.
+Eine effektive Agglutination, das heißt eine Verklumpung durch Ausbildung großer Komplexe, ist daher nur bei etwa gleicher Anzahl von Epitopen und Bindungsstellen möglich.
+Bei großen Abweichungen nach oben oder unten bleiben die Komplexe in Lösung; trotzdem tritt meist eine Neutralisation der Wirkung der Antigene ein.
+Gegen mehrere Virusstämme wirksame neutralisierende Antikörper werden als breitneutralisierende Antikörper bezeichnet, z.
+Die Anzahl an Bindungsstellen auf einem Antikörper wird als Valenz bezeichnet und variiert je nach Antikörper-Subtyp.
+Während die meisten Antikörpersubtypen wie IgG zwei Bindungsstellen aufweisen, besitzen IgA vier Bindungsstellen und IgM zehn Bindungsstellen.Membranständige Antikörper (als B-Zell-Rezeptoren (BCR) bezeichnet) können B-Zellen aktivieren, wenn sie durch Antigene quervernetzt werden.
+Die B-Zelle nimmt daraufhin den Immunkomplex durch Endozytose auf, verdaut das Antigen proteolytisch und präsentiert über MHC-Klasse-II-Moleküle (Peptide mit 13–18 Aminosäuren) Fragmente davon auf ihrer Zelloberfläche.
+Wenn die präsentierten Fragmente auch (parallel auf anderen professionellen Antigen-präsentierenden Zellen oder auf ebendieser B-Zelle) von einer CD4-T-Zelle (T-Helferzellen) erkannt werden, stimuliert diese T-Zelle die B-Zelle, was weitere Reifungsprozesse (somatische Hypermutation, Klassenwechsel) und Proliferation zu Antikörper-sezernierenden Plasmazellen oder/und zu B-Gedächtniszellen auslöst.
+Diese Reifungsprozesse finden innerhalb von Keimzentren (germinal center) in den sekundären lymphatischen Organen (Milz, Lymphknoten) statt und werden unter dem Begriff der Keimzentrumsreaktion (germinal center reaction) zusammengefasst.Der B-Zell-Rezeptor ist, mit Ausnahme eines kleinen Teils am Carboxylende der schweren Kette, mit dem Antikörper der jeweiligen B-Zelle identisch.
+Der B-Zell-Rezeptor besitzt dort eine hydrophobe, in der Zellmembran verankerte Sequenz, der Antikörper dagegen eine hydrophile Sequenz, die seine Sekretion bewirkt.
+Die beiden Formen entstehen durch alternative RNA-Prozessierung.Sezernierte Antikörper wirken durch verschiedene Mechanismen:Bei den meisten Wirbeltieren gibt es fünf verschiedene Klassen (Isotypen) von Immunglobulinen, die anhand ihrer unterschiedlichen Gen-Abschnitte für die konstanten Teile der Schwerkette eingeteilt werden.
+Darüber hinaus gibt es einige Klassen, die nur in einzelnen Tiergruppen zu finden sind.
+Die verschiedenen Isotypen kommen in verschiedenen Kompartimenten des Körpers vor und haben unterschiedliche Aufgaben.Immunglobulin A (IgA) wird auf allen Schleimhäuten der Atemwege, der Augen, des Magen-Darm-Trakts, des Urogenitaltrakts sowie über spezielle Drüsen rund um die Brustwarze von Müttern sezerniert und schützt dort vor Pathogenen (auch das Neugeborene).
+Sezerniertes IgA kommt in Form von Homodimeren vor; die beiden Anteile sind durch das Joining-Peptid verbunden.Immunglobulin D (IgD) wird durch alternatives Spleißen der IgM/IgD-Prä-mRNA zusammen mit IgM als B-Zell Rezeptor (BCR) auf reifen, naiven (antigenunerfahrenen) B-Zellen membranständig präsentiert.
+IgD sind 170–200 kDa große Monomere und nur in geringen Mengen in sezernierter Form in Blut und Lymphe vorhanden (weniger als 1 %).
+Von Plasmazellen wird IgD nicht sezerniert, und in freier Form schnell abgebaut.
+Es wirkt als Antigenrezeptor bei der von Antigen stimulierten Vermehrung und bei der Differenzierung der B-Zellen.Immunglobulin E (IgE) vermittelt den Schutz vor Parasiten, wie z.
+B. pathogenen Würmern, und ist an Allergien beteiligt.
+IgE sind 190 kDa große Monomere.
+Es wird durch Fc-Rezeptoren auf Mastzellen sowie basophile und eosinophile Granulozyten mit hoher Affinität gebunden.
+Aus diesem Grund ist nahezu alles IgE membrangebunden, im Blut ist es praktisch nicht vorhanden.
+Bei Antigenkontakt wird es quervernetzt, was zur Ausschüttung von Histamin, Granzymen etc. durch die Mastzellen (Mastzelldegranulation – hier greifen Allergiemedikamente, die die Mastzellen „stabilisieren“) und Granulozyten führt (allergische Sofortreaktion, anaphylaktische Reaktion).Immunglobuline G (IgG) sind 150 kDa große Monomere mit einem Sedimentationskoeffizient von 7S.
+Diese Antikörperklasse wird erst in einer späten Abwehrphase, etwa 3 Wochen nach Infektion, gebildet und bleibt lange erhalten.
+Der Nachweis zeigt eine durchgemachte Infektion oder eine Impfung an.Die immunisierende Funktion beruht auf zwei antigengebundenen IgG, die das Komplementsystem aktivieren.
+Der Fc-Rezeptor vermittelt Phagozytose.Ein Beispiel ist anti-Masern-IgG, gegen das Masernvirus gerichtete Antikörper der IgG-Klasse, als Zeichen einer gegenwärtigen oder früheren Infektion oder Impfung.
+Die Rhesusfaktor-D-Antikörper sind ebenfalls von diesem Typ, was zu Komplikationen bei einer Schwangerschaft führen kann, da Immunglobulin G plazentagängig ist.
+Auch ohne Komplikation wird IgG im mütterlichen Blut aktiv durch die Plazenta(barriere) in den Fötus transportiert und sorgt nachgeburtlich für einen ersten Schutz vor Infektionen.IgGs werden in folgende Subklassen unterteilt: IgG1-IgG4 (Mensch) bzw. IgG1, IgG2, IgG2b und IgG3 (Maus).Krankheiten mit einem angeborenen oder erworbenen Antikörpermangel betreffen oft IgG.
+Bildet der Körper gegen eigene Körperbestandteile Antikörper, so genannte Autoantikörper, spricht man von einer Autoimmunkrankheit.Immunglobuline sind nach intravenöser Verabreichung in der Blutbahn des Empfängers unmittelbar und vollständig bioverfügbar.
+Sie verteilen sich relativ rasch zwischen Plasma und extravaskulärer Flüssigkeit; nach etwa drei bis fünf Tagen wird ein Gleichgewicht zwischen intra- und extravaskulärem Kompartiment erreicht.
+Die In-vivo-Halbwertszeit von IgG bei Patienten mit primärem Antikörpermangelsyndrom beträgt 35 Tage.
+Die Halbwertszeit von IgG kann jedoch von Patient zu Patient variieren, vor allem bei Patienten mit primären Immunmangelsyndromen.
+Immunglobuline und IgG-Komplexe werden in den Zellen des mononukleären phagozytischen Systems abgebaut.Immunglobulin G besitzt ein breites Antikörperspektrum gegen verschiedene infektiöse Erreger.
+Opsonisierung und Neutralisierung von Mikroben und Toxinen durch spezifische Antikörper wurden nachgewiesen.
+IgG-Antikörper werden aus Plasma von mindestens 1000 Spendern hergestellt; die Subklassenverteilung entspricht der des humanen Plasmas.
+Durch entsprechende Dosierungen können erniedrigte IgG-Serumspiegel auf Normalwerte angehoben werden.
+Der Wirkmechanismus bei anderen Anwendungsgebieten als der Substitutionstherapie ist noch nicht vollständig erforscht, schließt jedoch immunmodulatorische Wirkungen ein.
+Die Fertigprodukte sind auf einen schwach sauren pH-Wert eingestellt.
+Nach Verabreichung hoher Dosen von IgG wurde keine Veränderung des Blut-pH-Wertes gemessen.
+Die Osmolalität von Fertigarzneimitteln liegt nahe an den physiologischen Werten (285–295 mOsmol/kg).Immunglobuline sind normale Bestandteile des menschlichen Körpers.
+Die akute Toxizität beim Tier ist nicht festzulegen, da das zu verabreichende Volumen oberhalb der tolerierbaren Grenze läge.
+Tierstudien über chronische Toxizität und Embryotoxizität sind nicht möglich, da diese durch die Bildung von Antikörpern gegen Humanproteine gestört werden.
+Klinische Erfahrungen haben keine Hinweise auf kanzerogene oder mutagene Effekte geliefert.
+Deswegen wurden experimentelle Untersuchungen am Tier nicht für notwendig erachtet.Immunglobulin M (IgM) ist die Klasse von Antikörpern, die bei Erst-Kontakt mit Antigenen gebildet wird und zeigt die akute Infektionsphase einer Krankheit an, beispielsweise anti-Masern-IgM, gegen das Masernvirus gerichtete Antikörper der IgM-Klasse als Zeichen einer frischen Infektion.
+Daher ist ein rezenter Anstieg von IgM generell ein wichtiger Hinweis für eine durchgemachte Erstinfektion.IgM ist ein Pentamer (Oligomer) aus fünf Untereinheiten von je 180 kDa.
+Diese Untereinheiten sind durch das cysteinreiche, 15 kDa große Joining Peptide (J-Kette) verbunden.
+Die Molekularmasse des IgM-Pentamers beträgt 970 kDa, der Sedimentationskoeffizient 19S.
+Da IgM 10 Bindungsstellen für Antigene hat, führen diese Antikörper zu einer starken Agglutination.
+Der Antigen-Antikörperkomplex von IgM-Pentameren aktiviert den klassischen Weg des Komplementsystems, weiterhin werden die AB0-Blutgruppen von IgM-Antikörpern erkannt.
+10 % des Gesamt-Ig macht IgM aus.Immunglobulin W (IgW) wurde erst 1996 in einer Haiart entdeckt.
+Aufgrund dessen wurde ursprünglich angenommen, dass es nur in Knorpelfischen vorkommt.
+2003 wurde IgW jedoch auch in Lungenfischen, einer Klasse der Knochenfische, nachgewiesen.
+IgW besitzt wahrscheinlich einige Eigenschaften eines hypothetischen Ur-Immunglobulins und ist deshalb vor allem für die Forschung zur Evolution des Immunsystems von Interesse.Immunglobulin Y (IgY) auch Chicken IgG, Egg Yolk IgG oder 7S-IgG genannt, ist in Hühnern das funktionelle Äquivalent zu IgG und ähnelt diesem in seiner Struktur.
+Es ist in hohen Konzentrationen in Hühnereiern zu finden.
+Für die Verwendung für bioanalytische Zwecke in Immunassays bietet IgY verschiedene Vorteile gegenüber IgG.Aus Tieren gewonnene Antikörper (Antiseren) werden als Therapeutikum für verschiedenste Zwecke eingesetzt.
+Ein wichtiges Beispiel ist die Verwendung als passiver Impfstoff.Intravenöse Immunglobuline (IVIG) sind zugelassen zur Substitutionsbehandlung bei verschiedenen angeborenen oder erworbenen Störungen der Antikörperbildung (z.
+B. bei chronisch lymphatischer Leukämie, Multiplem Myelom oder nach allogener hämatopoetischer Stammzellentransplantation) sowie zur Immunmodulation bei einigen Autoimmunerkrankungen (z.
+B. Immunthrombozytopenie, Guillain-Barré-Syndrom) und Erkrankungen unbekannter Ätiologie (z.
+Die Querschnitts-Leitlinien der Bundesärztekammer zur Therapie mit Blutkomponenten und Plasmaderivaten erwähnen darüber hinaus die Off-Label-Anwendung in verschiedenen Indikationen.
+Zu den lange bekannten möglichen seltenen Nebenwirkungen von IVIG-Präparaten zählen reversible hämolytische Reaktionen.
+Diese werden vermutlich ausgelöst durch Antikörper gegen Blutgruppenantigene (Isoagglutinine), die in den IVIG-Präparaten enthalten sein können.
+Im März 2013 thematisierte die Arzneimittelkommission der deutschen Ärzteschaft (AkdÄ) in ihrer Drug Safety Mail Meldungen von schweren hämolytischen Reaktionen nach intravenöser Gabe von Immunglobulinen.Außerdem werden spezifische monoklonale Antikörper seit neuestem in der Medizin therapeutisch eingesetzt.
+Hauptanwendungsgebiet ist die Hämatologie und Onkologie, daneben werden sie auch in der Behandlung von Autoimmunerkrankungen wie Multipler Sklerose, Rheumatoider Arthritis (RA) oder CIDP (chronische inflammatorische demyelisierende Polyneuropathie), AIDP (akute inflammatorische demyelisierende Polyneuropathie), MMN (Multifokale motorische Neuropathie) und verwandten neuromuskulären Erkrankungen eingesetzt.
+Hierbei erkennen diese Antikörper pro-inflammatorische Zytokine wie Interleukin-1 oder Lymphotoxin-α.
+Antikörper gegen den B-Zell-Oberflächenmarker CD20 erkennen zwar nur naive (antigenunerfahrene) und Gedächtnis-B-Zellen, jedoch keine Plasmazellen (CD20neg), dennoch ist auch diese Therapie relativ erfolgreich.
+Damit stellen Antikörper eine Medikamentenklasse dar, die erstmals in der Lage ist, spezifisch in die entzündlichen Vorgänge einzugreifen (Biologicals).In der Immunszintigrafie werden Antikörper dazu verwendet bestimmte Zielstrukturen, beispielsweise Tumorzellen, im Körper ausfindig zu machen.
+Dazu wird an den Antikörper ein meist sehr kurzlebiges Radionuklid gekoppelt.
+Mittels Szintigrafie oder Positronen-Emissions-Tomographie kann man dann feststellen, wo sich der Antikörper bzw. dessen Zielstruktur (Target) genau befindet.Früher war der konstante Teil der Antikörper noch murinen (aus der Maus) Ursprungs, was zu Abstoßungsreaktionen durch das Immunsystem führen konnte.
+Um dieses Problem zu umgehen, werden neuerdings sogenannte humanisierte Antikörper verwendet.
+Herkömmliche monoklonale Antikörper enthalten neben der die Spezifität gegen humane Antigene vermittelnden variablen Region immer noch Proteinbestandteile der Maus, die das menschliche Immunsystem möglicherweise als fremdartig abstößt.
+Mit Hilfe molekularbiologischer Verfahren werden deshalb die murinen Teile der konstanten Abschnitte entfernt und durch baugleiche konstante Teile menschlicher Antikörper ersetzt.
+Die konstanten Abschnitte der Antikörper spielen für die spezifische Bindung des monoklonalen Antikörpers keine Rolle.
+Der so entstandene monoklonale Antikörper wird als „humanisierter monoklonaler Antikörper“ bezeichnet und wird vom Immunsystem des Menschen nicht mehr abgestoßen.
+Humanisierte Antikörper werden in einer Kultur aus Hamster-Ovarialzellen hergestellt, weshalb ihre Produktion sehr viel aufwändiger und deshalb auch teurer als die Produktion in Mikroorganismen ist.Bei der Radioimmuntherapie ist eine ionisierende Strahlungsquelle mit möglichst kurzer Reichweite an einen Antikörper gekoppelt.
+Zum Einsatz kommen hier vor allem kurzlebige Beta-, seltener Alphastrahler, mit kurzer Reichweite im Gewebe.Bei der Impfstoffentwicklung gegen variable Pathogene werden breitneutralisierende Antikörper (bnAb) untersucht, die gegen mehrere Stämme eines Virus wirksam sind, beispielsweise breitneutralisierende Anti-IAV-Antikörper und breitneutralisierende Anti-HIV-Antikörper.Die hohe Spezifität, mit der Antikörper ihr Antigen erkennen, macht man sich in der Biologie zu Nutze, um das Antigen, in den allermeisten Fällen ein Protein, sichtbar zu machen.
+Die Antikörper sind entweder direkt mit einem Enzym (setzt ein Substrat in Farbe oder Chemolumineszenz um), mit Fluoreszenzfarbstoffen oder mit radioaktiven Isotopen gekoppelt (gelabelt) oder werden mit einem Sekundärantikörper, der an den ersten (Primärantikörper) bindet und entsprechend gelabelt ist, nachgewiesen.Ein monoklonaler Antikörper ist gegen genau ein spezifisches Epitop eines Antigens gerichtet.
+Zunächst müssen, wie bei der polyklonalen Antikörperherstellung beschrieben, Tiere immunisiert und dann deren Plasmazellen (aus Milz oder Lymphknoten) gewonnen werden.
+Da die Plasmazellen die Fähigkeit zur Zellteilung verloren haben, muss zuerst eine Verschmelzung mit Tumorzellen erfolgen.
+Die so entstandenen Zellhybriden (Hybridom-Technik) erhalten von den Plasmazellen die Eigenschaft, einen bestimmten Antikörper zu produzieren und zu sezernieren und von der Tumorzelle die Fähigkeit, in Kultur sich theoretisch unendlich oft teilen zu können und somit theoretisch unendlich lange zu leben.
+Durch mehrfaches Vereinzeln (Klonieren) wird ein Stamm von Zellen gewonnen, der auf eine einzelne Hybridoma-Zelle und somit auf eine einzelne Plasma-Zelle zurückgeht.Die so erhaltenen Zelllinien können nun in Kultur unendlich stark expandiert werden und damit auch theoretisch unendlich große Mengen Antikörper produzieren.
+Da alle Zellen auf eine einzige Zelle zurückzuführen sind, handelt es sich bei allen Zellen einer Kultur um identische Kopien ein und derselben Zelle.
+Aufgrund dessen produzieren auch alle Zellen einen bestimmten, identischen Antikörper, der sich hinsichtlich seiner Eigenschaften (z.
+B. Bindungsstelle am Antigen, Stärke der Bindung etc.) genau definieren lässt und in theoretisch unbegrenzter Menge herstellbar ist.Rekombinante Antikörper werden in vitro hergestellt, das heißt ohne Versuchstier.
+Rekombinante Antikörper werden typischerweise aus Genbibliotheken hergestellt, die für die Herstellung der Antikörper in Mikroorganismen geeignet sind.
+Die Auswahl des richtigen (=spezifisch bindenden Antikörpers) erfolgt dabei nicht durch das Immunsystem eines Tieres/Menschen, sondern durch einen Bindungsschritt im Reagenzglas.
+Rekombinante Antikörper können auf vielfältige Weise angewendet werden, da sie einfach verändert werden können, denn ihre Erbsubstanz ist bekannt.
+So kann ihre Bindungsstärke oder Stabilität verbessert werden, oder es können Eiweiße mit anderen Funktionen angehängt werden, z.
+B. zur Erzeugung von bispezifischen Antikörpern oder Immuntoxinen.Polyklonale Antiseren sind eine Mischung aus verschiedenen gegen diverse Epitope gerichteten Antikörpern.
+Zunächst muss das Antigen, gegen das der Antikörper gerichtet sein soll, ausgewählt und produziert werden.
+Dies kann auf verschiedene Weisen erreicht werden, zum Beispiel, indem ein Protein isoliert, ein Peptid in vitro synthetisiert oder das Protein als ganzes rekombinant in Bakterien hergestellt wird.
+Anschließend wird das Protein einem Tier eingespritzt, dessen Immunsystem dann Antikörper gegen das Protein bildet.
+Als Antikörper-Produzenten werden besonders Mäuse, Ratten und Kaninchen, aber auch Ziegen, Schafe und Pferde verwendet.
+Nach ein paar Wochen kann das polyklonale Antiserum entnommen werden.
+Darin sind verschiedene durch die Immunisierung gebildete, gegen das Antigen gerichtete Antikörper enthalten, die sich im erkannten Epitop unterscheiden können.Als Hypogammaglobulinämie wird der Mangel an Antikörpern und als Agammaglobulinämie ihr völliges Fehlen bezeichnet.
+Ein Zuviel an Antikörpern bezeichnet man als Hypergammaglobulinämie.Die Diagnose einer Störung der Antikörper wird in der Regel durch die Eiweißelektrophorese des Blutserums gestellt.
+Eventuell muss diese noch durch eine Immunelektrophorese ergänzt werden.Ursachen einer ausgeprägteren Hypogammaglobulinämie können u. a. sein:Ursachen einer ausgeprägteren Hypergammaglobulinämie können u. a. sein:Durch Proteindesign wurden verschiedene Derivate von Antikörpern mit teilweise veränderten Eigenschaften erzeugt, z.
+B. F(ab)2-Fragmente, Fab-Fragmente, scFv-Fragmente, Einzeldomänenantikörper oder Mikroantikörper.
